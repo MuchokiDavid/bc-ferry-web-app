@@ -23,19 +23,31 @@
   
   .listMenu a:hover {
     background-color: #111;
+    color: white;
   }
   
   .listMenu .active {
-    background-color: #4CAF50;
-  }
-  .footList a{
-    text-decoration: none;
-    padding: 14px 16px;
-    color: white;
-  }
-  .footList{
-    text-decoration: none;
+    background-color: #F8F046;
+    color: black;
   }
   #bannerImage{
     width: 100%;
+  }
+  .footLi{
+    text-decoration: none;
+    display: block;
+    padding: 10px 20px;
+  }
+  .footLi a{
+    text-decoration: none;
+    color: white;
+  }
+  .row{
+    background-color: rgb(240, 238, 238);
+    height: fit-content;
+    text-align: center;
+  }
+  .destination, .departure{
+    height: 40px;
+    width: 400px;
   }

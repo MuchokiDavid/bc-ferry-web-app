@@ -7,14 +7,14 @@
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/bootstrap.css">
 </head>
-<body class="bg-warning" style="font-family: sans-serif;">
+<body style="font-family: sans-serif; background-color: #f5f5f5;">
     <header>
         <div class="container bg-light p-3">
             <img src="./images/bc-ferries.jpg" alt="logo" style="height: 100px;">
             <nav >
                 <ul class="menuUl">
                     <li class="listMenu"><a class="active" href="#home">Home</a></li>
-                    <li class="listMenu"><a href="#schedule">Schedule</a></li>
+                    <li class="listMenu"><a href="./pages/about.html">Schedule</a></li>
                     <li class="listMenu"><a href="#about">About</a></li>
                 </ul>
             </nav>
@@ -23,17 +23,52 @@
     <main>
         <div class="container bg-light p-3">
             <img id="bannerImage" src="./images/ferryBanner.png" alt="ferry">
-            <h1>BC Ferries Schedule</h1>
+            <div>
             <p>Welcome to the BC Ferry Sailing Data Web App! We're here to make your ferry travel smoother. With real-time data from BC Ferries at your fingertips, you can effortlessly plan your trips, check sailing schedules, and stay in the know about the latest updates. Our user-friendly interface ensures a hassle-free experience, making it easier than ever to access critical ferry information. Start exploring the convenience of the BC Ferry Sailing Data Web App today!</p>
+            </div>
+            <div class="dropSelect">
+                <hr>
+                <div class="row">
+                    <h3>Schedule</h3>
+                    <div class="col">
+                        <select class="departure" id="departure">
+                            <option>Departure Terminal</option>
+                            <option value="TSA">Tsawwassen</option>
+                            <option value="SWB">Swartz Bay</option>     
+                            <option value="DUK">Duke Point (Nanaimo)</option> 
+                            <option value="FUL">Fulford Harbour (Salt Spring Island)</option> 
+                            <option value="HSB">Horseshoe Bay</option> 
+                            <option value="NAN">Departure Bay (Nanaimo)</option>
+                            <option value="LNG">Langford</option>
+                            <option value="BOW">Bowen Island</option>
+                        </select>
+                    </div>
+                    <div class="col">
+                        <select class="destination" id="destination" name="destination">
+                            <option>Destination Terminal</option>
+                            <option value="TSA">Tsawwassen</option>
+                            <option value="SWB">Swartz Bay</option>    
+                            <option value="SGI">Southern Gulf Islands</option> 
+                            <option value="DUK">Duke Point (Nanaimo)</option> 
+                            <option value="FUL">Fulford Harbour (Salt Spring Island)</option> 
+                            <option value="HSB">Horseshoe Bay</option> 
+                            <option value="NAN">Departure Bay (Nanaimo)</option>
+                            <option value="LNG">Langford</option>
+                            <option value="BOW">Bowen Island</option>
+                        </select>
+                    </div>
+                </div>
+                <hr>
+            </div>
         </div>
     </main>
     <footer>
-        <div class="container" style="background-color: #4CAF50;">
-            <ul class="footUl">
-                <li class="footList"><a class="active" href="#home">Home</a></li>
-                <li class="footList"><a href="#schedule">Schedule</a></li>
-                <li class="footList"><a href="#about">About</a></li>
-            </ul>
+        <div class="container" style="background-color: #0079A5;">
+            <div class="footer">
+                <li class="footLi"><a href="#home">Home</a></li>
+                <li class="footLi"><a href="#schedule">Schedule</a></li>
+                <li class="footLi"><a href="#about">About</a></li>
+            </div>
         </div>
     </footer>
     

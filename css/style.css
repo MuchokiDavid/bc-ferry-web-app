@@ -1,0 +1,41 @@
+.menuUl {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+  }
+  
+  .listMenu {
+    float: left;
+  }
+  
+  .listMenu a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .listMenu a:hover {
+    background-color: #111;
+  }
+  
+  .listMenu .active {
+    background-color: #4CAF50;
+  }
+  .footList a{
+    text-decoration: none;
+    padding: 14px 16px;
+    color: white;
+  }
+  .footList{
+    text-decoration: none;
+  }
+  #bannerImage{
+    width: 100%;
+  }

@@ -26,10 +26,10 @@
     color: white;
   }
   
-  .listMenu .active {
+  /* .listMenu .active {
     background-color: #F8F046;
     color: black;
-  }
+  } */
   #bannerImage{
     width: 100%;
   }
@@ -51,3 +51,13 @@
     height: 40px;
     width: 400px;
   }
+  .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#scheduleUl, .scheduleLi{
+    text-decoration: none;
+    background-color: rgb(240, 238, 238);
+    height: 100px;
+}

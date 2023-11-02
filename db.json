@@ -162,22 +162,12 @@
                 "sailingDuration": "",
                 "sailings": [
                     {
-                        "time": "5:15 am",
-                        "arrivalTime": "",
-                        "isCancelled": false,
-                        "fill": 52,
-                        "carFill": 38,
-                        "oversizeFill": 67,
-                        "vesselName": "Coastal Inspiration",
-                        "vesselStatus": ""
-                    },
-                    {
                         "time": "7:45 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 75,
-                        "carFill": 63,
-                        "oversizeFill": 87,
+                        "fill": 78,
+                        "carFill": 70,
+                        "oversizeFill": 86,
                         "vesselName": "Queen of Alberni",
                         "vesselStatus": ""
                     },
@@ -185,9 +175,9 @@
                         "time": "10:15 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 70,
-                        "carFill": 61,
-                        "oversizeFill": 79,
+                        "fill": 71,
+                        "carFill": 64,
+                        "oversizeFill": 78,
                         "vesselName": "Coastal Inspiration",
                         "vesselStatus": ""
                     },
@@ -195,9 +185,9 @@
                         "time": "12:45 pm",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 53,
-                        "carFill": 29,
-                        "oversizeFill": 76,
+                        "fill": 56,
+                        "carFill": 30,
+                        "oversizeFill": 81,
                         "vesselName": "Queen of Alberni",
                         "vesselStatus": ""
                     },
@@ -205,9 +195,9 @@
                         "time": "3:15 pm",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 63,
+                        "fill": 62,
                         "carFill": 52,
-                        "oversizeFill": 75,
+                        "oversizeFill": 73,
                         "vesselName": "Coastal Inspiration",
                         "vesselStatus": ""
                     },
@@ -245,8 +235,8 @@
                         "time": "5:15 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 35,
-                        "carFill": 16,
+                        "fill": 36,
+                        "carFill": 17,
                         "oversizeFill": 55,
                         "vesselName": "Coastal Inspiration",
                         "vesselStatus": ""
@@ -255,9 +245,9 @@
                         "time": "7:45 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 47,
+                        "fill": 48,
                         "carFill": 39,
-                        "oversizeFill": 56,
+                        "oversizeFill": 58,
                         "vesselName": "Queen of Alberni",
                         "vesselStatus": ""
                     },
@@ -366,30 +356,10 @@
                 "sailingDuration": "",
                 "sailings": [
                     {
-                        "time": "5:50 am",
-                        "arrivalTime": "",
-                        "isCancelled": false,
-                        "fill": 0,
-                        "carFill": 0,
-                        "oversizeFill": 0,
-                        "vesselName": "Queen of Capilano",
-                        "vesselStatus": ""
-                    },
-                    {
-                        "time": "6:50 am",
-                        "arrivalTime": "",
-                        "isCancelled": false,
-                        "fill": 0,
-                        "carFill": 0,
-                        "oversizeFill": 0,
-                        "vesselName": "Queen of Capilano",
-                        "vesselStatus": ""
-                    },
-                    {
                         "time": "8:00 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 0,
+                        "fill": 7,
                         "carFill": 0,
                         "oversizeFill": 0,
                         "vesselName": "Queen of Capilano",
@@ -554,9 +524,9 @@
                         "time": "7:30 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 44,
-                        "carFill": 32,
-                        "oversizeFill": 73,
+                        "fill": 100,
+                        "carFill": 100,
+                        "oversizeFill": 100,
                         "vesselName": "Queen of Surrey",
                         "vesselStatus": ""
                     },
@@ -564,9 +534,9 @@
                         "time": "9:45 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 34,
+                        "fill": 43,
                         "carFill": 21,
-                        "oversizeFill": 66,
+                        "oversizeFill": 100,
                         "vesselName": "Queen of Surrey",
                         "vesselStatus": ""
                     },
@@ -595,7 +565,7 @@
                         "arrivalTime": "",
                         "isCancelled": false,
                         "fill": 39,
-                        "carFill": 27,
+                        "carFill": 28,
                         "oversizeFill": 68,
                         "vesselName": "Queen of Surrey",
                         "vesselStatus": ""
@@ -634,9 +604,9 @@
                         "time": "7:30 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 38,
+                        "fill": 35,
                         "carFill": 21,
-                        "oversizeFill": 83,
+                        "oversizeFill": 73,
                         "vesselName": "Queen of Surrey",
                         "vesselStatus": ""
                     },
@@ -666,22 +636,12 @@
                 "sailingDuration": "",
                 "sailings": [
                     {
-                        "time": "6:15 am",
-                        "arrivalTime": "",
-                        "isCancelled": false,
-                        "fill": 35,
-                        "carFill": 25,
-                        "oversizeFill": 62,
-                        "vesselName": "Queen of Oak Bay",
-                        "vesselStatus": ""
-                    },
-                    {
                         "time": "Queen of Coquitlam",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 37,
-                        "carFill": 41,
-                        "oversizeFill": 28,
+                        "fill": 39,
+                        "carFill": 43,
+                        "oversizeFill": 30,
                         "vesselName": "",
                         "vesselStatus": ""
                     },
@@ -689,7 +649,7 @@
                         "time": "10:40 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 48,
+                        "fill": 49,
                         "carFill": 49,
                         "oversizeFill": 47,
                         "vesselName": "Queen of Oak Bay",
@@ -699,7 +659,7 @@
                         "time": "Queen of Coquitlam",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 53,
+                        "fill": 52,
                         "carFill": 55,
                         "oversizeFill": 46,
                         "vesselName": "",
@@ -709,9 +669,9 @@
                         "time": "3:45 pm",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 48,
+                        "fill": 49,
                         "carFill": 53,
-                        "oversizeFill": 35,
+                        "oversizeFill": 38,
                         "vesselName": "Queen of Oak Bay",
                         "vesselStatus": ""
                     },
@@ -773,22 +733,12 @@
                 "sailingDuration": "",
                 "sailings": [
                     {
-                        "time": "6:20 am",
-                        "arrivalTime": "",
-                        "isCancelled": false,
-                        "fill": 28,
-                        "carFill": 21,
-                        "oversizeFill": 46,
-                        "vesselName": "Queen of Surrey",
-                        "vesselStatus": ""
-                    },
-                    {
                         "time": "8:40 am",
                         "arrivalTime": "",
                         "isCancelled": false,
                         "fill": 47,
                         "carFill": 50,
-                        "oversizeFill": 41,
+                        "oversizeFill": 40,
                         "vesselName": "Queen of Surrey",
                         "vesselStatus": ""
                     },
@@ -796,9 +746,9 @@
                         "time": "10:50 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 34,
-                        "carFill": 33,
-                        "oversizeFill": 36,
+                        "fill": 36,
+                        "carFill": 34,
+                        "oversizeFill": 43,
                         "vesselName": "Queen of Surrey",
                         "vesselStatus": ""
                     },
@@ -806,9 +756,9 @@
                         "time": "1:05 pm",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 35,
+                        "fill": 36,
                         "carFill": 23,
-                        "oversizeFill": 65,
+                        "oversizeFill": 68,
                         "vesselName": "Queen of Surrey",
                         "vesselStatus": ""
                     },
@@ -818,7 +768,7 @@
                         "isCancelled": false,
                         "fill": 28,
                         "carFill": 19,
-                        "oversizeFill": 52,
+                        "oversizeFill": 53,
                         "vesselName": "Queen of Surrey",
                         "vesselStatus": ""
                     },
@@ -826,9 +776,9 @@
                         "time": "5:25 pm",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 23,
+                        "fill": 22,
                         "carFill": 16,
-                        "oversizeFill": 41,
+                        "oversizeFill": 37,
                         "vesselName": "Queen of Surrey",
                         "vesselStatus": ""
                     },
@@ -878,7 +828,7 @@
                         "isCancelled": false,
                         "fill": 34,
                         "carFill": 25,
-                        "oversizeFill": 55,
+                        "oversizeFill": 57,
                         "vesselName": "Queen of Surrey",
                         "vesselStatus": ""
                     }
@@ -890,22 +840,12 @@
                 "sailingDuration": "",
                 "sailings": [
                     {
-                        "time": "Queen of Coquitlam",
-                        "arrivalTime": "",
-                        "isCancelled": false,
-                        "fill": 40,
-                        "carFill": 30,
-                        "oversizeFill": 66,
-                        "vesselName": "",
-                        "vesselStatus": ""
-                    },
-                    {
                         "time": "8:25 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 46,
-                        "carFill": 48,
-                        "oversizeFill": 41,
+                        "fill": 48,
+                        "carFill": 50,
+                        "oversizeFill": 42,
                         "vesselName": "Queen of Oak Bay",
                         "vesselStatus": ""
                     },
@@ -913,9 +853,9 @@
                         "time": "Queen of Coquitlam",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 45,
+                        "fill": 46,
                         "carFill": 50,
-                        "oversizeFill": 34,
+                        "oversizeFill": 36,
                         "vesselName": "",
                         "vesselStatus": ""
                     },
@@ -944,7 +884,7 @@
                         "arrivalTime": "",
                         "isCancelled": false,
                         "fill": 34,
-                        "carFill": 34,
+                        "carFill": 35,
                         "oversizeFill": 32,
                         "vesselName": "Queen of Oak Bay",
                         "vesselStatus": ""
@@ -963,7 +903,7 @@
                         "time": "Queen of Coquitlam",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 16,
+                        "fill": 17,
                         "carFill": 10,
                         "oversizeFill": 34,
                         "vesselName": "",
@@ -1000,7 +940,7 @@
                         "time": "7:00 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 0,
+                        "fill": 62,
                         "carFill": 0,
                         "oversizeFill": 0,
                         "vesselName": "Skeena Queen",
@@ -1112,32 +1052,12 @@
                 "sailingDuration": "",
                 "sailings": [
                     {
-                        "time": "5:00 am",
-                        "arrivalTime": "",
-                        "isCancelled": false,
-                        "fill": 0,
-                        "carFill": 0,
-                        "oversizeFill": 0,
-                        "vesselName": "Queen of Cumberland",
-                        "vesselStatus": ""
-                    },
-                    {
-                        "time": "5:05 am",
-                        "arrivalTime": "",
-                        "isCancelled": false,
-                        "fill": 0,
-                        "carFill": 0,
-                        "oversizeFill": 0,
-                        "vesselName": "Salish Raven",
-                        "vesselStatus": ""
-                    },
-                    {
                         "time": "8:15 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 0,
-                        "carFill": 0,
-                        "oversizeFill": 0,
+                        "fill": 2,
+                        "carFill": 1,
+                        "oversizeFill": 3,
                         "vesselName": "Salish Raven",
                         "vesselStatus": ""
                     },
@@ -1250,9 +1170,9 @@
                         "time": "7:00 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 89,
+                        "fill": 100,
                         "carFill": 100,
-                        "oversizeFill": 79,
+                        "oversizeFill": 100,
                         "vesselName": "Spirit of Vancouver Island",
                         "vesselStatus": ""
                     },
@@ -1260,9 +1180,9 @@
                         "time": "9:00 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 78,
-                        "carFill": 93,
-                        "oversizeFill": 63,
+                        "fill": 85,
+                        "carFill": 100,
+                        "oversizeFill": 70,
                         "vesselName": "Spirit of British Columbia",
                         "vesselStatus": ""
                     },
@@ -1270,9 +1190,9 @@
                         "time": "11:00 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 75,
+                        "fill": 70,
                         "carFill": 81,
-                        "oversizeFill": 69,
+                        "oversizeFill": 60,
                         "vesselName": "Spirit of Vancouver Island",
                         "vesselStatus": ""
                     },
@@ -1280,9 +1200,9 @@
                         "time": "1:00 pm",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 80,
+                        "fill": 82,
                         "carFill": 83,
-                        "oversizeFill": 77,
+                        "oversizeFill": 80,
                         "vesselName": "Spirit of British Columbia",
                         "vesselStatus": ""
                     },
@@ -1290,9 +1210,9 @@
                         "time": "3:00 pm",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 69,
+                        "fill": 70,
                         "carFill": 61,
-                        "oversizeFill": 77,
+                        "oversizeFill": 80,
                         "vesselName": "Spirit of Vancouver Island",
                         "vesselStatus": ""
                     },
@@ -1301,7 +1221,7 @@
                         "arrivalTime": "",
                         "isCancelled": false,
                         "fill": 79,
-                        "carFill": 76,
+                        "carFill": 77,
                         "oversizeFill": 82,
                         "vesselName": "Spirit of British Columbia",
                         "vesselStatus": ""
@@ -1364,22 +1284,12 @@
                 "sailingDuration": "",
                 "sailings": [
                     {
-                        "time": "5:15 am",
-                        "arrivalTime": "",
-                        "isCancelled": false,
-                        "fill": 59,
-                        "carFill": 18,
-                        "oversizeFill": 100,
-                        "vesselName": "Queen of Alberni",
-                        "vesselStatus": ""
-                    },
-                    {
                         "time": "7:45 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 58,
-                        "carFill": 41,
-                        "oversizeFill": 75,
+                        "fill": 65,
+                        "carFill": 50,
+                        "oversizeFill": 80,
                         "vesselName": "Coastal Inspiration",
                         "vesselStatus": ""
                     },
@@ -1387,9 +1297,9 @@
                         "time": "10:15 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 59,
+                        "fill": 56,
                         "carFill": 30,
-                        "oversizeFill": 86,
+                        "oversizeFill": 81,
                         "vesselName": "Queen of Alberni",
                         "vesselStatus": ""
                     },
@@ -1397,9 +1307,9 @@
                         "time": "12:45 pm",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 64,
+                        "fill": 63,
                         "carFill": 54,
-                        "oversizeFill": 74,
+                        "oversizeFill": 72,
                         "vesselName": "Coastal Inspiration",
                         "vesselStatus": ""
                     },
@@ -1407,8 +1317,8 @@
                         "time": "3:15 pm",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 59,
-                        "carFill": 36,
+                        "fill": 58,
+                        "carFill": 35,
                         "oversizeFill": 81,
                         "vesselName": "Queen of Alberni",
                         "vesselStatus": ""
@@ -1417,8 +1327,8 @@
                         "time": "5:45 pm",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 69,
-                        "carFill": 53,
+                        "fill": 70,
+                        "carFill": 55,
                         "oversizeFill": 85,
                         "vesselName": "Coastal Inspiration",
                         "vesselStatus": ""
@@ -1448,7 +1358,7 @@
                         "arrivalTime": "",
                         "isCancelled": false,
                         "fill": 48,
-                        "carFill": 9,
+                        "carFill": 8,
                         "oversizeFill": 87,
                         "vesselName": "Queen of Alberni",
                         "vesselStatus": ""
@@ -1458,7 +1368,7 @@
                         "arrivalTime": "",
                         "isCancelled": false,
                         "fill": 57,
-                        "carFill": 28,
+                        "carFill": 29,
                         "oversizeFill": 85,
                         "vesselName": "Coastal Inspiration",
                         "vesselStatus": ""
@@ -1467,9 +1377,9 @@
                         "time": "10:15 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 47,
-                        "carFill": 39,
-                        "oversizeFill": 54,
+                        "fill": 50,
+                        "carFill": 40,
+                        "oversizeFill": 58,
                         "vesselName": "Queen of Alberni",
                         "vesselStatus": ""
                     }
@@ -1484,7 +1394,7 @@
                         "isCancelled": false,
                         "fill": 76,
                         "carFill": 100,
-                        "oversizeFill": 57,
+                        "oversizeFill": 58,
                         "vesselName": "Salish Eagle",
                         "vesselStatus": ""
                     },
@@ -1502,9 +1412,9 @@
                         "time": "9:55 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 61,
+                        "fill": 62,
                         "carFill": 100,
-                        "oversizeFill": 32,
+                        "oversizeFill": 33,
                         "vesselName": "Salish Eagle",
                         "vesselStatus": ""
                     },
@@ -1524,7 +1434,7 @@
                         "isCancelled": false,
                         "fill": 86,
                         "carFill": 100,
-                        "oversizeFill": 75,
+                        "oversizeFill": 76,
                         "vesselName": "Salish Eagle",
                         "vesselStatus": ""
                     }
@@ -1534,22 +1444,12 @@
                 "sailingDuration": "",
                 "sailings": [
                     {
-                        "time": "7:00 am",
-                        "arrivalTime": "",
-                        "isCancelled": false,
-                        "fill": 90,
-                        "carFill": 80,
-                        "oversizeFill": 100,
-                        "vesselName": "Spirit of British Columbia",
-                        "vesselStatus": ""
-                    },
-                    {
                         "time": "9:00 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 86,
-                        "carFill": 85,
-                        "oversizeFill": 88,
+                        "fill": 100,
+                        "carFill": 100,
+                        "oversizeFill": 100,
                         "vesselName": "Spirit of Vancouver Island",
                         "vesselStatus": ""
                     },
@@ -1557,9 +1457,9 @@
                         "time": "11:00 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 68,
-                        "carFill": 70,
-                        "oversizeFill": 66,
+                        "fill": 71,
+                        "carFill": 71,
+                        "oversizeFill": 72,
                         "vesselName": "Spirit of British Columbia",
                         "vesselStatus": ""
                     },
@@ -1567,7 +1467,7 @@
                         "time": "1:00 pm",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 62,
+                        "fill": 63,
                         "carFill": 58,
                         "oversizeFill": 67,
                         "vesselName": "Spirit of Vancouver Island",
@@ -1577,9 +1477,9 @@
                         "time": "3:00 pm",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 63,
-                        "carFill": 52,
-                        "oversizeFill": 74,
+                        "fill": 65,
+                        "carFill": 53,
+                        "oversizeFill": 77,
                         "vesselName": "Spirit of British Columbia",
                         "vesselStatus": ""
                     },
@@ -1587,8 +1487,8 @@
                         "time": "5:00 pm",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 64,
-                        "carFill": 56,
+                        "fill": 65,
+                        "carFill": 58,
                         "oversizeFill": 73,
                         "vesselName": "Spirit of Vancouver Island",
                         "vesselStatus": ""
@@ -1617,8 +1517,8 @@
                         "time": "7:00 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 72,
-                        "carFill": 58,
+                        "fill": 73,
+                        "carFill": 59,
                         "oversizeFill": 86,
                         "vesselName": "Spirit of British Columbia",
                         "vesselStatus": ""
@@ -1627,8 +1527,8 @@
                         "time": "9:00 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 72,
-                        "carFill": 60,
+                        "fill": 73,
+                        "carFill": 61,
                         "oversizeFill": 85,
                         "vesselName": "Spirit of Vancouver Island",
                         "vesselStatus": ""
@@ -1637,9 +1537,9 @@
                         "time": "11:00 am",
                         "arrivalTime": "",
                         "isCancelled": false,
-                        "fill": 58,
+                        "fill": 59,
                         "carFill": 60,
-                        "oversizeFill": 56,
+                        "oversizeFill": 58,
                         "vesselName": "Spirit of British Columbia",
                         "vesselStatus": ""
                     }
@@ -1647,5 +1547,5 @@
             }
         }
     },
-    "scrapedAt": "2023-11-01T08:58:31Z"
+    "scrapedAt": "2023-11-01T14:02:31Z"
 }

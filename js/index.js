@@ -10,31 +10,35 @@ document.addEventListener("DOMContentLoaded",()=>{
         .then(response => response.json())
         .then(data => {
             //console.log(data);
-
-            departureDropdown.addEventListener("change", function(){
-            let departureValue= departureDropdown.value;
-            arrivalDropdown.addEventListener("change", ()=> {
-                let arrivalValue = arrivalDropdown.value;
-                const divList = document.createElement("div")
-                const itemsDiv = document.querySelector("#scheduleUl")
-                divList.className= "destinationList"
-                divList.innerHTML= `
-                <p>Time travel from: ${data.schedule[departureValue][arrivalValue].sailings[1].time} </p>
-                `
-                itemsDiv.appendChild(divList)
-            })
-            // console.log(departureValue)
+            try {
+                departureDropdown.addEventListener("change", function(){
+                let departureValue= departureDropdown.value;
+                arrivalDropdown.addEventListener("change", ()=> {
+                    // if(divList){
+                    //     itemsDiv.removeChild(divList)
+                    // }
+                        let arrivalValue = arrivalDropdown.value;
+                        viewButton.addEventListener("click", ()=>{
+                            const divList = document.createElement("div")
+                            const itemsDiv = document.querySelector("#scheduleUl")
+                            divList.className= "destinationList"
+                            divList.innerHTML= `
+                            <p>Time travel from: ${data.schedule[departureValue][arrivalValue].sailings[1].time} </p>
+                            `
+                            itemsDiv.appendChild(divList)
+                        })
+                    
+                    
+                    })
+                // console.log(departureValue)
             
-            })
-            
-            
+                })
+            } 
+            catch (error) {
+                Alert ("Data not found")
+            }
         })
         .catch(error => console.error('Error:', error));
     }
-    
-    function buttonEvent(){
-        viewButton.addEventListener("click", wholeSchedule())
-    }
-
-    buttonEvent();
+    wholeSchedule()
 })

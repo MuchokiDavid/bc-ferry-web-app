@@ -11,6 +11,7 @@ document.addEventListener("DOMContentLoaded",()=>{
         .then(data => {
             //console.log(data);
             try {
+                // window.location.reload();
                 departureDropdown.addEventListener("change", function(){
                 let departureValue= departureDropdown.value;
                 arrivalDropdown.addEventListener("change", ()=> {
@@ -18,20 +19,48 @@ document.addEventListener("DOMContentLoaded",()=>{
                     //     itemsDiv.removeChild(divList)
                     // }
                         let arrivalValue = arrivalDropdown.value;
+                        
                         viewButton.addEventListener("click", ()=>{
-                            const divList = document.createElement("div")
-                            const itemsDiv = document.querySelector("#scheduleUl")
-                            divList.className= "destinationList"
-                            divList.innerHTML= `
-                            <p>Time travel from: ${data.schedule[departureValue][arrivalValue].sailings[1].time} </p>
-                            `
-                            itemsDiv.appendChild(divList)
+                            if (departureValue !== arrivalValue) {
+                                const divList = document.createElement("div")
+                                const itemsDiv = document.querySelector("#scheduleUl")
+                                divList.className= "destinationList"
+                                divList.innerHTML= `
+                                <table class="tblRoute">
+                                    <tr>
+                                        <th>Departure Station</th>
+                                        <th>Arrival Station</th>
+                                        <th>Departure Time</th>
+                                        <th>Arrival Time</th>
+                                        <th>Vessel Name</th>
+                                        <th>Fill</th>
+                                        <th>Cancelled Status</th>
+                                    </tr>
+                                    <tr>
+                                        <td>${departureValue}</td>
+                                        <td>${arrivalValue}</td>
+                                        <td>${data.schedule[departureValue][arrivalValue].sailings[1].time} </td>
+                                        <td>${data.schedule[departureValue][arrivalValue].sailings[1].arrivalTime} </td>
+                                        <td>${data.schedule[departureValue][arrivalValue].sailings[1].vasselName} </td>
+                                        <td>${data.schedule[departureValue][arrivalValue].sailings[1].fill} </td>
+                                        <td>${data.schedule[departureValue][arrivalValue].sailings[1].isCancelled} </td>
+                                    </tr>
+                                    
+                                </table>
+                                `
+                                itemsDiv.appendChild(divList)
+                            }
+                            else{
+                                alert ("Choose another route")
+                                window.location.reload()
+                            }
+                            
+
                         })
                     
                     
                     })
                 // console.log(departureValue)
-            
                 })
             } 
             catch (error) {

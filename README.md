@@ -1,4 +1,4 @@
-# BC Ferry Sailing Data Web App
+# BC Ferry Sailing Data Web App - Using Public API
 
 This web app is designed to retrieve current data on BC Ferries sailings using the BC Ferry public API. It provides information on sailings, routes, and other related data. This README will guide you through the project setup and usage.
 
